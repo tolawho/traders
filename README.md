@@ -6,9 +6,9 @@ Bạn có thể tải xuống phần mềm bằng cách nhấp vào **[đây](ht
 
 ## Thông tin phần mềm
 
-- Phiên bản: 1.0
+- Phiên bản: 0.1.0
 - Hệ điều hành hỗ trợ: Window
-- Tải xuống: [Traders v1.0](https://github.com/tolawho/traders/raw/master/Traders%20Setup.exe)
+- Tải xuống: [Traders v0.1.0](https://github.com/tolawho/traders/raw/master/Traders%20Setup.exe)
 
 ## Sàn giao dịch được hỗ trợ
 
