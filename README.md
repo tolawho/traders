@@ -7,8 +7,9 @@ Bạn có thể tải xuống phần mềm bằng cách nhấp vào **[đây](ht
 ## Thông tin phần mềm
 
 - Phiên bản: 0.1.0
-- Hệ điều hành hỗ trợ: Window
+- Hệ điều hành hỗ trợ: Window 64bit
 - Tải xuống: [Traders v0.1.0](https://github.com/tolawho/traders/raw/master/Traders%20Setup.exe)
+- Tải xuống: [Traders v0.1.0 Tài khoản Demo](https://github.com/tolawho/traders/raw/master/Traders%20Setup%20Demo.exe)
 
 ## Sàn giao dịch được hỗ trợ
 
