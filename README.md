@@ -6,15 +6,15 @@ Bạn có thể tải xuống phần mềm bằng cách nhấp vào **[đây](ht
 
 ## Thông tin phần mềm
 
-- Phiên bản: 0.1.0
-- Hệ điều hành hỗ trợ: Window
-- Tải xuống: [Traders v0.1.0](https://github.com/tolawho/traders/raw/master/Traders%20Setup.exe)
+- Phiên bản mới nhất(latest version): v0.1.1
+- Hệ điều hành hỗ trợ(Operating system support): Window 64bit
+- Tải xuống(download): [Traders v0.1.1](https://github.com/tolawho/traders/raw/master/Traders%20Setup.exe)
 
 ## Sàn giao dịch được hỗ trợ
 
-- **[IQOption](https://iqoption.com)**
+- **[IQOption]**
 
-## Liên kết của chúng tôi
+## Liên kết của chúng tôi - Our link
 
-- **[Website chính thức](https://lucnen.com)**
-- **[Cộng đồng Lực nến](https://www.facebook.com/groups/lucnen/)**
+- **[Website chính thức - Official website](https://lucnen.com)**
+- **[Cộng đồng Lực nến - community](https://www.facebook.com/groups/lucnen/)**
