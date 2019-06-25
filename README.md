@@ -6,7 +6,7 @@ Traders là một ứng dụng của nền tảng cung cấp **[tín hiệu nh�
 
 - Phiên bản mới nhất(latest version): v0.1.7
 - Hệ điều hành hỗ trợ(Operating system support): Window 32bit && 64bit
-- Tải xuống(download): [Traders-Setup](http://bit.ly/traders-latest)
+- Tải xuống(download): [Traders-Setup](http://bit.ly/traders-lat
 
 ## Hỗ trợ các sàn - Brokers
 
